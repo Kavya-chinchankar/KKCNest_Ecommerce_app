@@ -1,0 +1,65 @@
+.d-flex .btn{
+    background: #00b4d8;
+    border: 2px solid #00b4d8;
+    border-radius: 8px;
+    color: #fff;
+}
+.d-flex .btn:hover{
+    background: #00b4d8;
+    border: 2px solid #00b4d8;
+}
+
+#right1 :hover{
+    color: #023e8a;
+    transition: 300ms;
+}
+
+.row .right2 {
+    margin-left: -10px;
+    height: 180px;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.container .row .col .row .col a {
+    background-color: #023e8a;
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+
+}
+
+.container .row .col .row .col a :hover {
+    background-color: #023e8a;
+}
+#column :hover{
+    transform: scale(0.9);
+    transition: 450ms;
+    border-radius: 10px;
+}
+
+#items :hover {
+    color: #023e8a;
+    transition: 200ms;
+}
+
+@media (max-width: 992px) { /* Adjust the breakpoint as needed */
+    #flex_item{
+        display: flex;
+        flex-direction: row; /* Explicitly setting the default behavior */
+        flex-wrap: nowrap; /* Prevents items from wrapping */
+        justify-content: space-between;
+    }
+    }
+
+
+    .navbar-toggler {
+        box-shadow: none!important; /* Removes the shadow */
+        border: 1px solid black; /* Removes the border */
+    }
+    
+    .navbar-toggler-icon {
+        filter: invert(0); /* Optionally, inverts the icon color for contrast */
+    }
+    
