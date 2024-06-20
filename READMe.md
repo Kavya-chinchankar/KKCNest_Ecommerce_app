@@ -1,4 +1,4 @@
-![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/635f2f2b-a459-4d4e-9a33-2a755119843c)<H1 align ="center" > KKCNEST Flask Ecommerce   </h1>
+<H1 align ="center" > KKCNEST Flask Ecommerce   </h1>
 <h5  align ="center"> 
 Fullstack open source ecommerce application made with Flask, SQLite </h5>
 <br/>
