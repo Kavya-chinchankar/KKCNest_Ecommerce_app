@@ -1,17 +1,4 @@
-## 🐱‍🏍✨Flask Ecommerce✨🐱‍🏍
-
-🐍Python Project🐍
-
-📌Customers can sign in or sign up
-📌Customers can reset their passwords
-📌Customers can search for goods
-📌Add them to their cart
-📌Payment Gateway Functionality
-📌Admins can regulate shop products e.g stock level
-📌Admins can change order status
-
-
-<H1 align ="center" > KKCNEST Flask Ecommerce   </h1>
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/635f2f2b-a459-4d4e-9a33-2a755119843c)<H1 align ="center" > KKCNEST Flask Ecommerce   </h1>
 <h5  align ="center"> 
 Fullstack open source ecommerce application made with Flask, SQLite </h5>
 <br/>
@@ -33,47 +20,24 @@ In order to run this project locally, simply fork and clone the repository or do
 
 - Open the project in your prefered code editor.
 - Go to terminal -> New terminal (If you are using VS code)
-- Split your terminal into two (run the Frontend on one terminal and the Backend on the other terminal)
 
-In the first terminal
-
-```
-$ cd Frontend
-$ npm install (to install frontend-side dependencies)
-$ npm run  start (to start the frontend)
-```
-
-In the second terminal
-
-- cd Backend and Set environment variables in config.env under ./config
-- Create your mongoDB connection url, which you'll use as your MONGO_URI
-- Supply the following credentials
+First create virtual environment
 
 ```
-#  ---  Config.env  ---
-
-NODE_ENV = development
-PORT =5000
-URI =http://localhost:3000
-MONGO_URI =
-JWT_SECRET_KEY =
-JWT_EXPIRE = 60m
-RESET_PASSWORD_EXPIRE = 3600000 
-
-# Nodemailer
-
-SMTP_HOST =smtp.gmail.com
-SMTP_PORT =587
-EMAIL_USERNAME = example@gmail.com
-EMAIL_PASS = your_password
+$ python -m venv venv
+$ venv\Scripts\activate
 ```
 
+Install Requirment Variables
 
 ```
-# --- Terminal ---
+ $ pip install -r requirements.txt 
+```
 
-$ npm install (to install backend-side dependencies)
-$ npm start (to start the backend)
+Run the file
+
+```
+$ py .\main.py  
 ```
 
 ##  Key Features
@@ -91,36 +55,32 @@ $ npm start (to start the backend)
 
 This project was created using the following technologies.
 
-####  Frontend 
+####  Requirment 
 
-- [React js ](https://www.npmjs.com/package/react) - JavaScript library that is used for building user interfaces specifically for single-page applications
-- [React Hooks  ](https://reactjs.org/docs/hooks-intro.html) - For managing and centralizing application state
-- [react-router-dom](https://www.npmjs.com/package/react-router-dom) - To handle routing
-- [axios](https://www.npmjs.com/package/axios) - For making Api calls
-- [Css](https://developer.mozilla.org/en-US/docs/Web/CSS) - For User Interface
-- [CK-Editor](https://ckeditor.com/docs/ckeditor5/latest/builds/guides/integration/frameworks/react.html) - Rich Text Editor 
-- [uuid](https://www.npmjs.com/package/uuid) - For random id generator
-- [React icons](https://react-icons.github.io/react-icons/) -
- Small library that helps you add icons  to your react apps.
-
-####  Backend 
-
-- [Node js](https://nodejs.org/en/) -A runtime environment to help build fast server applications using JS
-- [Express js](https://www.npmjs.com/package/express) -The server for handling and routing HTTP requests
-- [Mongoose](https://mongoosejs.com/) - For modeling and mapping MongoDB data to JavaScript
-- [express-async-handler](https://www.npmjs.com/package/express-async-handler) - Simple middleware for handling exceptions inside of async express routes and passing them to your express error handlers 
-- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) - For authentication
-- [Bcryptjs](https://www.npmjs.com/package/bcryptjs) - For data encryption
-- [Nodemailer](https://nodemailer.com/about/) - Send e-mails from Node.js
-- [Dotenv](https://www.npmjs.com/package/dotenv) - Zero Dependency module that loads environment variables
-- [multer](https://www.npmjs.com/package/multer) - Node.js middleware for uploading files 
-- [slugify](https://www.npmjs.com/package/slugify) - For encoding titles into a URL-friendly format
-- [cors](https://www.npmjs.com/package/cors) - Provides a Connect/Express middleware
-
-
-####  Database 
-
- - [MongoDB ](https://www.mongodb.com/) - It provides a free cloud service to store MongoDB collections.
+	
+  blinker==1.6.2
+		certifi==2023.7.22
+		charset-normalizer==3.2.0
+		click==8.1.
+  colorama==0.4.6
+		Flask==2.3.2 =============TO RUN FLASK APP
+		Flask-Login==0.6.2
+		Flask-SQLAlchemy==3.0.5
+		Flask-WTF==1.1.1
+		greenlet==2.0.2
+  idna==3.4
+		importlib-metadata==6.7.0
+		intasend-python==1.0.8
+		itsdangerous==2.1.2		
+  Jinja2==3.1.2
+		MarkupSafe==2.1.3
+		requests==2.31.0
+		SQLAlchemy==2.0.18
+  zipp==3.15.0
+		typing_extensions==4.7.1
+		urllib3==2.0.4
+		Werkzeug==2.3.6
+		WTForms==3.0.1
  
  ##  Screenshots 
  
@@ -146,8 +106,6 @@ This project was created using the following technologies.
 ![10](https://user-images.githubusercontent.com/111676859/226197329-025091a0-642b-4d68-ac4e-f365e0e78e82.png)
 --- - 
 ![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
-
-## Author
 
 ## Author
 
