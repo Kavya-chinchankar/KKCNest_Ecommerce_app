@@ -5,10 +5,6 @@ Fullstack open source ecommerce application made with Flask, SQLite </h5>
 
   * [Configuration and Setup](#configuration-and-setup)
   * [Key Features](#key-features)
-  * [Technologies used](#technologies-used)
-      - [Frontend](#frontend)
-      - [Backend](#backend)
-      - [Database](#database)
   * [📸 Screenshots](#screenshots)
   * [Author](#author)
   * [License](#license)
@@ -50,37 +46,6 @@ $ py .\main.py
 - Admins can change order status
 
 <br/>
-
-##  Technologies used
-
-This project was created using the following technologies.
-
-####  Requirment 
-
-	
-  blinker==1.6.2
-		certifi==2023.7.22
-		charset-normalizer==3.2.0
-		click==8.1.
-  colorama==0.4.6
-		Flask==2.3.2 =============TO RUN FLASK APP
-		Flask-Login==0.6.2
-		Flask-SQLAlchemy==3.0.5
-		Flask-WTF==1.1.1
-		greenlet==2.0.2
-  idna==3.4
-		importlib-metadata==6.7.0
-		intasend-python==1.0.8
-		itsdangerous==2.1.2		
-  Jinja2==3.1.2
-		MarkupSafe==2.1.3
-		requests==2.31.0
-		SQLAlchemy==2.0.18
-  zipp==3.15.0
-		typing_extensions==4.7.1
-		urllib3==2.0.4
-		Werkzeug==2.3.6
-		WTForms==3.0.1
  
  ##  Screenshots 
  
