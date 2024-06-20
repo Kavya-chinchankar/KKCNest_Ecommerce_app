@@ -50,23 +50,23 @@ $ py .\main.py
  ##  Screenshots 
  
 
-![1](https://user-images.githubusercontent.com/111676859/226197211-8abc5de5-7659-4811-b28a-ef885de64267.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/8e9f6bc7-5ece-4b12-aca6-99bf3281d2dd)
 ---- -
-![2](https://user-images.githubusercontent.com/111676859/226197288-1f0cf951-dd30-464f-b70a-10c449fe33b4.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/702fc52d-72c3-4fdd-bf04-ed12bf8d74d6)
 --- - 
-![3](https://user-images.githubusercontent.com/111676859/226197295-e9525dd5-1346-4951-a1c8-d5620166d7aa.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/97953103-d3d5-4e96-a002-95547d2eca81)
 --- - 
-![4](https://user-images.githubusercontent.com/111676859/226197298-ca0f5b6e-f523-4040-98a8-b92a17bbe22e.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/53cf5d61-d2cf-4e2b-b2c6-3ba913ab55b8)
 --- - 
-![5](https://user-images.githubusercontent.com/111676859/226197303-5d8a1a39-07f7-409f-8614-12d0ca0b2836.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/aa102579-ab8f-46cf-8694-36759fa30597)
 --- - 
-![6](https://user-images.githubusercontent.com/111676859/226197307-1d95a1f6-147a-4edb-b899-449c90c07713.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/6a3cd5ac-866f-4935-9100-5064cd864d17)
 --- - 
-![7](https://user-images.githubusercontent.com/111676859/226197312-b7bf6ae6-2c05-4b1d-bc25-4262af3f04f2.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/f19a0327-de5e-4feb-991b-2915c879800f)
 --- - 
-![8](https://user-images.githubusercontent.com/111676859/226197316-eb387e87-9690-44ca-b138-f15b03bed7d4.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/85abffab-ed9a-4e7c-aadd-9b027a1c4e2e)
 --- - 
-![9](https://user-images.githubusercontent.com/111676859/226197324-dcbad05b-2283-4ef5-bae9-2da8d09d55c9.png)
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/b26e3eba-272e-4432-bb43-6468e94cab7d)
 --- - 
 ![10](https://user-images.githubusercontent.com/111676859/226197329-025091a0-642b-4d68-ac4e-f365e0e78e82.png)
 --- - 
