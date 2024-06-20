@@ -58,6 +58,8 @@ $ py .\main.py
 --- - 
 ![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/53cf5d61-d2cf-4e2b-b2c6-3ba913ab55b8)
 --- - 
+![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/0d03d0ae-f434-4c6c-ad38-cbbd44156890)
+--- - 
 ![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/aa102579-ab8f-46cf-8694-36759fa30597)
 --- - 
 ![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/6a3cd5ac-866f-4935-9100-5064cd864d17)
@@ -68,9 +70,6 @@ $ py .\main.py
 --- - 
 ![image](https://github.com/Kavya-chinchankar/KKCNest_Ecommerce_app/assets/112461154/b26e3eba-272e-4432-bb43-6468e94cab7d)
 --- - 
-![10](https://user-images.githubusercontent.com/111676859/226197329-025091a0-642b-4d68-ac4e-f365e0e78e82.png)
---- - 
-![11](https://user-images.githubusercontent.com/111676859/226197338-3e530bc6-e7bf-4e4a-9284-165f85be47d2.png)
 
 ## Author
 
